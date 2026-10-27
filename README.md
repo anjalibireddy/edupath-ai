@@ -1,4 +1,5 @@
 # 🎓 EduPath AI
+live link:https://edupath-ai-ama4teqnn2pde66hbmocno.streamlit.app/
 
 Personalized education & career guidance (Streamlit MVP). All "AI" is rule-based/template driven, so **no API keys are needed**.
 
